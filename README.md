@@ -15,13 +15,13 @@ patterns-of-tradition/
 │   └── ...
 │
 ├── analysis/              # Python scripts for data extraction and visualization
-│   ├── extract_events.py
-│   ├── calculate_frequencies.py
-│   └── plot_graphs.py
+│   ├── burial_analysis
+│   ├── gift_giving_analysis
+│   └── singing_analysis
 │
 ├── viewer/                # Streamlit app for exploring annotated data
 │   ├── app.py
-│   ├── utils.py
+│   ├── utils
 │   └── ...
 │
 └── README.md              # This file
